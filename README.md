@@ -13,16 +13,20 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 # About me
 Hello! I'm Amalia (she/her), a graduate student at Carnegie Mellon. This is my fifth and final year at CMU and I'm excited to finally leave. I am a huge cat person! Please enjoy this ASCII art:
 
-                      /^--^\     /^--^\     /^--^\
-                      \____/     \____/     \____/
-                     /      \   /      \   /      \
-                    |        | |        | |        |
-                     \__  __/   \__  __/   \__  __/
-|^|^|^|^|^|^|^|^|^|^|^|^\ \^|^|^|^/ /^|^|^|^|^\ \^|^|^|^|^|^|^|^|^|^|^|^|
-| | | | | | | | | | | | |\ \| | |/ /| | | | | | \ \ | | | | | | | | | | |
-########################/ /######\ \###########/ /#######################
-| | | | | | | | | | | | \/| | | | \/| | | | | |\/ | | | | | | | | | | | |
-|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
+```text
+ /\     /\  
+{  `---'  }  
+{  O   O  }  
+~~>  V  <~~  
+ \  \|/  /  
+  `-----'__  
+  /     \  `^\_  
+ {       }\ |\_\_   W  
+ |  \_/  |/ /  \_\_( )  
+  \__/  /(_E     \__/  
+    (  /  
+     MM
+```
 
 # What I hope to learn
 Here are some of the things I hope to learn in the next 6 weeks:
