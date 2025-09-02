@@ -11,22 +11,29 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! I'm Amalia (she/her), a graduate student at Carnegie Mellon. This is my fifth and final year at CMU and I'm excited to finally leave. I am a huge cat person! Please enjoy this ASCII art:
+
+                      /^--^\     /^--^\     /^--^\
+                      \____/     \____/     \____/
+                     /      \   /      \   /      \
+                    |        | |        | |        |
+                     \__  __/   \__  __/   \__  __/
+|^|^|^|^|^|^|^|^|^|^|^|^\ \^|^|^|^/ /^|^|^|^|^\ \^|^|^|^|^|^|^|^|^|^|^|^|
+| | | | | | | | | | | | |\ \| | |/ /| | | | | | \ \ | | | | | | | | | | |
+########################/ /######\ \###########/ /#######################
+| | | | | | | | | | | | \/| | | | \/| | | | | |\/ | | | | | | | | | | | |
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Here are some of the things I hope to learn in the next 6 weeks:
+- I hope to relearn how to put photos on websites
+- I'm looking forward to learning some tools for making data visualizations
+- This online portfolio is very exciting! I wawnt to learn how to manage it and populate it with interesting work.
 
 # Portfolio
+## Project 1
+## Project 2
+## Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
