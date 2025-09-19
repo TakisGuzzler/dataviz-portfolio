@@ -109,6 +109,7 @@ The general feedback was as follows:
 ## Build
 With all of the feedback I collected, I was able to proceed with constructing my final graphic. As stated previously, the goal was to present the data in a way that allowed users to see the trends of each of the categories on their own. In my critique I identified this as my largest issue with the existing line chart, so I wanted to select a chart type that would mitigate the issue. To this end the second sketch option was chosen. This was the more popular choice, and the feedback specifically stated that it was better for reading individual categories.
 The feedback given was also used to revise the names of the axes and title for the charts. This was done to dispel any confusion over what was being shown. A specific issue was that users were unsure about the vertical axis and whether it represented hours per day or week or something else. Overall it was very clear how to change the labels to communicate more effectively with the audience.
+The last issue was that the scaling was all off on the chart. I did a final feedback check before submitting and a friend said "why are people alone for more than 24 hours a day?" This was alarming and I realized the graphs were tracking sum and not average. Somehow making this change fixed the results, but it was very concerning for a few moments. It also explains much of the confusion my users had during feedback sessions. Mystery solved!
 
 
 ## AI Acknowledgement
