@@ -12,11 +12,11 @@
 
 
 ## Source
-U.S. Bureau of Labor Statistics (2023) – with major processing by Our World in Data https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime
-
+[U.S. Bureau of Labor Statistics (2023) – with major processing by Our World in Data](https://ourworldindata.org/time-use#who-do-we-spend-time-with-across-our-lifetime)
+I selected this data because I found it the topic interesting and learned things that I would not have guessed. I was surprised at how prevalent each group was at different points in time and wanted to pick apart the data more. The initial conclusions I could draw about time spent alone made me want to see what else could be said using this dataset.
 
 ## Critique
-I selected this data because I found it legitimately interesting. I was surprised at how prevalent each group was at different points in time and wanted to pick apart the data more. My main issue was that the only insight is seeing that “Alone” is most popular, followed by “Partner,” followed by everything else at the bottom. It is hard to look at individual trends for each line because even with distinct colors they all heavily overlap. I wanted to find a way to convey the same information but allowing for observation of individual categories.
+My main issue with this visualization is that the only insight is seeing that “Alone” is most popular, followed by “Partner,” followed by everything else at the bottom. It is hard to look at individual trends for each line because even with distinct colors they all heavily overlap. I wanted to find a way to convey the same information but allowing for observation of individual categories.
 Sketch
 I thought that an area chart would be a good way to convey the specific information that I wanted: the individual times of each category. To this end, I created a pair of prototype charts in Tableau. They had the same information, but one stacked the areas together and the other separated them into six separate graphs.
 ### Stacked chart:
