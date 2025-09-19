@@ -19,7 +19,9 @@ I selected this data because I found it the topic interesting and learned things
 
 ## Critique
 My main issue with this visualization is that the only insight is seeing that “Alone” is most popular, followed by “Partner,” followed by everything else at the bottom. It is hard to look at individual trends for each line because even with distinct colors they all heavily overlap. I wanted to find a way to convey the same information but allowing for observation of individual categories.
-Sketch
+
+
+## Sketch
 I thought that an area chart would be a good way to convey the specific information that I wanted: the individual times of each category. To this end, I created a pair of prototype charts in Tableau. They had the same information, but one stacked the areas together and the other separated them into six separate graphs.
 ### Stacked chart:
 - Easy to see all data at once
@@ -28,6 +30,17 @@ I thought that an area chart would be a good way to convey the specific informat
 - Tell individual stories
 - All in one row: still good for comparison
 - Moving average used to smooth out individual lines
+
+### Unused stacked area chart (revised):
+<div class='tableauPlaceholder' id='viz1758254244934' style='position: relative'><noscript><a href='#'><img alt='Who Americans spend their time with, by ageBased on averages from surveys from 2010-2023 for Americans aged 15 to 80. Time spent with multiple people counts towards all. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ti&#47;TimeSpentPeople&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TimeSpentPeople&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ti&#47;TimeSpentPeople&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1758254244934');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 
 ## Test
