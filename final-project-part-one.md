@@ -43,22 +43,15 @@ For this project I want data that captures trends across multiple genres of medi
 I found a variety of datasets on Kaggle which is always appreciated. I also found many reports on trends that were in PDFs. This is not ideal, but I anticipate transcribing information from some of these documents. 
 ### Manipulation
 I may attempt to adjust some data for inflation over time to more accurately track whether things have become more or less expensive. I will also see if I can join any sets together to allow for further analysis, but am unsure if this will be possible. I hope at a minimum that I can graph multiple sources of data together if they are all showing something over time.
-
-## Working list
-Video Game Sales Dataset
-Gregorut. (2017). Video game sales. Kaggle. https://www.kaggle.com/datasets/gregorut/videogamesales
-
-U.S. Recorded Music Revenue by Format Dataset
-The Devastator. (2023). U.S. recorded music revenue by format. Kaggle. https://www.kaggle.com/datasets/thedevastator/us-recorded-music-revenue-by-format
-
-Spotify User Behavior Dataset
-Ajayakumar, M. (2023). Spotify user behavior dataset. Kaggle. https://www.kaggle.com/datasets/meeraajayakumar/spotify-user-behavior-dataset
-
-Best-Selling Game Consoles Dataset
-Hussain, T. (2023). Best-selling game consoles of all time. Kaggle. https://www.kaggle.com/datasets/tayyarhussain/best-selling-game-consoles-of-all-time
+### Working list of sources
+Many more to comez!
+[Gregorut. (2017). Video game sales. Kaggle.](https://www.kaggle.com/datasets/gregorut/videogamesales)
+[The Devastator. (2023). U.S. recorded music revenue by format. Kaggle.](https://www.kaggle.com/datasets/thedevastator/us-recorded-music-revenue-by-format)
+[Ajayakumar, M. (2023). Spotify user behavior dataset. Kaggle.](https://www.kaggle.com/datasets/meeraajayakumar/spotify-user-behavior-dataset)
+[Hussain, T. (2023). Best-selling game consoles of all time. Kaggle.](https://www.kaggle.com/datasets/tayyarhussain/best-selling-game-consoles-of-all-time)
 
 # Method & Medium
 I intend to use both Shorthand and Tableau for this project so that I can get more experience with them. I will also put all of my visualizations onto my Github site. At this moment I have no other planned tools. I may mess with the CSS for Github so the styling matches my project theme, but this is not necessary.
 
-## AI Acknowledgement
+# AI Acknowledgement
 I used ChatGPT to assist with my initial search for publically accessible data.
